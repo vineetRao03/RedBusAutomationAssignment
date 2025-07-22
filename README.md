@@ -34,7 +34,7 @@ com.redbus
 
 ## 📌 Author
 - Vineet Rao  
-- 🌐 [LinkedIn](www.linkedin.com/in/vineetrao03)  
+- 🌐 [LinkedIn] www.linkedin.com/in/vineetrao03
 
 ---
 
